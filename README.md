@@ -8,6 +8,7 @@ When you are pleased with this class and you wish to donate for the work that wa
 involved with the conversion from VBA to C++. I will appreciate a donation on my patreon page:  
 https://www.patreon.com/hennep    
 
+An example of how to use this class can be found in the main function at the end of main.cpp
 
 Good luck,  
 Hennie Peters  
