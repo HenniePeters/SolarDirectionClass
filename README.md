@@ -1,4 +1,4 @@
-# SolarDirectionClass
+# SolarDirectionClass (for solar panels)
 A class to calculate the direction and elevation of a solar panel to point it accurately to the position of the sun  
 It can also be used to prove that the earth is NOT flat :-)
     
