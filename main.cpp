@@ -250,6 +250,8 @@ int main() {
     // Zevenaar timezone GMT+0.48
 
     // The result for: 2025-06-21, 12:22:
+
+    // DayTime(12:22):                              true
     // SunriseDegrees: 03:44                        0.15597
     // SolarNoon:      12:06                        0.85265
     // SunriseTime:    20:27                        0.50431
