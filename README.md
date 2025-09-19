@@ -8,8 +8,11 @@ When you are pleased with this class and you wish to donate for the work that wa
 involved with the conversion from VBA to C++. I will appreciate a donation on my patreon page:  
 https://www.patreon.com/hennep    
 
-An example of how to use this class can be found in the main function at the end of main.cpp
+An example of how to use this class can be found in the main function at the end of main.cpp  
 
+Modification, 2025-09-19:  
+An axtra function was added to the class to determine whether the sun is up or down on a given date/time. I needed this to switch off a battery charger and to switch on an inverter during the night.  
+  
 Good luck,  
 Hennie Peters  
 Zevenaar, Netherlands
