@@ -4,6 +4,8 @@ It can also be used to prove that the earth is NOT flat :-)
     
 Please note that calculations are only valid for dates between 1901 and 2099, due to an approximation used in the Julian Day calculation.   
 
+The functions used in the Solar class were copied from spreadsheets published on the website of the Global Monitoring Laboratory:  
+https://gml.noaa.gov/grad/solcalc/calcdetails.html  
 I noticed this text on the noaa site so leave the comment below intact:  
   
 =============================================================================================================  
