@@ -8,7 +8,7 @@ The functions used in the Solar class were copied from spreadsheets published on
 https://gml.noaa.gov/grad/solcalc/calcdetails.html  
 I noticed this text on the noaa site so leave the comment below intact:  
   
-=============================================================================================================  
+=========================================================================================  
 The information on government servers are in the public domain, unless specifically annotated otherwise, and may be used freely by the public
 so long as you do not:  
 1) claim it is your own (e.g. by claiming copyright for NOAA information – see next paragraph),  
@@ -17,7 +17,7 @@ or
 3) modify it in content and then present it as official government material.  
 You also cannot present information of your own in a way that makes it appear to be official government information.
   
-=============================================================================================================
+=========================================================================================
   
 An example of how to use this class can be found in the main function at the end of main.cpp  
 
