@@ -22,7 +22,7 @@ You also cannot present information of your own in a way that makes it appear to
 An example of how to use this class can be found in the main function at the end of main.cpp  
 
 Modification, 2025-09-19:  
-An axtra function was added to the class to determine whether the sun is up or down on a given date/time. I needed this to switch off a battery charger and to switch on an inverter during the night.  
+An axtra function was added to the class to determine whether the sun is up or down on a given date/time. I needed this to switch off a battery charger suring the day and to switch on an inverter during the night.  
   
 Good luck,  
 Hennie Peters  
