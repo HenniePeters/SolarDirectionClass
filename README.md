@@ -4,7 +4,7 @@ It can also be used to prove that the earth is NOT flat :-)
     
 Please note that calculations are only valid for dates between 1901 and 2099, due to an approximation used in the Julian Day calculation.   
 
-I did noticed this text on the noaa site so leave the comment below intact:  
+I noticed this text on the noaa site so leave the comment below intact:  
 The information on government servers are in the public domain, unless specifically annotated otherwise, and may be used freely by the public
 so long as you do not:  
 1) claim it is your own (e.g. by claiming copyright for NOAA information – see next paragraph),  
